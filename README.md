@@ -155,5 +155,5 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 <div align="center">
   <p>⭐ Star this repository if you found it useful! ⭐</p>
-  
+  <p>Created by Kaushiki Baidya</p>
 </div>
