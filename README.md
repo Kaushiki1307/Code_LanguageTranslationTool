@@ -103,7 +103,7 @@ This project is a modern, responsive language translation tool built with React 
 ### 📱 Preview
 
 <div align="center">
-  <img src="./preview.png" alt="Dialect Translation Tool Screenshot" width="80%" />
+  <img src="preview.png" alt="Dialect Translation Tool Screenshot" width="80%" />
 </div>
 
 ## 🚢 Deployment
