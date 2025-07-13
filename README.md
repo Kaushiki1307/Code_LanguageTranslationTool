@@ -103,7 +103,7 @@ This project is a modern, responsive language translation tool built with React 
 ### 📱 Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Dialect+Screenshot" alt="Application Screenshot" width="80%" />
+  <img src="https://raw.githubusercontent.com/Kaushiki1307/Code_LanguageTranslationTool/master/preview.png" alt="Dialect Translation Tool Screenshot" width="80%" />
 </div>
 
 ## 🚢 Deployment
@@ -155,5 +155,5 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 <div align="center">
   <p>⭐ Star this repository if you found it useful! ⭐</p>
-  <p>Created with ❤️ for Software Development Internship 2025</p>
+  
 </div>
