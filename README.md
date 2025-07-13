@@ -104,7 +104,7 @@ This project is a modern, responsive language translation tool built with React 
 
 <div align="center">
   <a href="https://github.com/Kaushiki1307/Code_LanguageTranslationTool/blob/master/preview.png">
-    <img src="https://github.com/Kaushiki1307/Code_LanguageTranslationTool/blob/master/preview.png?raw=true" alt="Dialect Translation Tool Screenshot" width="80%" style="max-width: 800px;" />
+    <img src="https://github.com/Kaushiki1307/Code_LanguageTranslationTool/blob/master/preview-small.png?raw=true" alt="Dialect Translation Tool Screenshot" width="80%" style="max-width: 800px;" />
   </a>
 </div>
 
