@@ -69,8 +69,8 @@ This project is a modern, responsive language translation tool built with React 
 
 1.  **📥 Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd dialect-translator
+    git clone https://github.com/Kaushiki1307/Code_LanguageTranslationTool.git
+    cd Code_LanguageTranslationTool
     ```
 
 2.  **📦 Install dependencies:**
@@ -129,7 +129,7 @@ This application is configured for easy deployment on platforms like Vercel or N
     git commit -m "Ready for deployment"
     
     # Add your GitHub repository as remote
-    git remote add origin https://github.com/yourusername/dialect-translator.git
+    git remote add origin https://github.com/Kaushiki1307/Code_LanguageTranslationTool.git
     
     # Push to GitHub
     git push -u origin main
